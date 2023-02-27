@@ -27,7 +27,7 @@
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.4"
   },
-  "description": "Modern Full Stack ECommerce Application with Stripe & Sanity ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)",
+  "description": "Modern Full Stack ECommerce Application with Stripe & Sanity",
   "main": "next.config.js",
   "directories": {
     "lib": "lib"
